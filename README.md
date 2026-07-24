@@ -23,6 +23,11 @@ We compare:
     ├── Classical_code_final_output.png
     ├── Hybrid_Code_FinalOutput.png
     └── Minimal_codeOutput_hybrid.png
+*Note*: This project uses synthetic market data for demonstration purposes. 
+No real Vanguard client data or proprietary data was used.
+
+The synthetic data was generated to simulate multi-asset portfolio scenarios 
+for the Vanguard Challenge.
 ```
 ## 📈 Key Findings
 - Classical method gave X% return with Y% risk
@@ -40,6 +45,10 @@ Thanks to WISER and Vanguard for organizing the 2026 Challenge.
 
 ### 3. Minimal Hybrid QUBO
 ![Minimal Hybrid Result](results/Minimal_codeOutput_hybrid.png)
+
+### 📑 Final Report
+[Download Final Report](Vanguard_Final_Report.pdf)
+
 ## 🚀 How to Run
 1. Clone the repository
 2. Install dependencies: pip install -r requirements.txt
