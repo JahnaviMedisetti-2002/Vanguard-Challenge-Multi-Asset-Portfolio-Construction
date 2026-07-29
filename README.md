@@ -52,11 +52,22 @@ No real Vanguard client data or proprietary data was used.
 
 The synthetic data was generated to simulate multi-asset portfolio scenarios 
 for the Vanguard Challenge.
+
 ## 🚀 How to Run
 1. Clone the repository
 2. Install dependencies: pip install -r requirements.txt
 3. Add your D-Wave API token
 4. Run any script: python Classical_Optimization.py
 
+## 📚 References
+
+1. Markowitz, H. (1952). Portfolio Selection. The Journal of Finance, 7(1), 77-91.
+2. Bodie, Z., Kane, A., & Marcus, A. J. (2021). Investments (12th ed.). McGraw Hill Education.
+3. Hull, J. C. (2022). Options, Futures, and Other Derivatives (11th ed.). Pearson.
+4. AI-Generated Synthetic Data. (2025). Daily Price Data for TCS, HDFC, Reliance, NIFTY ETF, Infosys. Generated using AI for academic purposes.
+5. Microsoft Excel. (2025). Solver Tool Documentation.
+6. Python Software Foundation. (2025). NumPy, Pandas, Matplotlib Libraries.
+7. D-Wave Systems. (2025). D-Wave Ocean SDK & Leap Hybrid Solver Documentation.
+ 
 ## 👨‍💻 Author
 Jahnavi Medisetti
